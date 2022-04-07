@@ -1,6 +1,6 @@
 package edu.baylor.ecs.si;
-
-
+ 
+// class creates a timer exception
 public class TimerException extends Exception {
 
 	// TODO Q1 what is this and why do we need it?
